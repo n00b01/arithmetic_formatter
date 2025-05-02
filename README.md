@@ -1,6 +1,3 @@
-Here’s a simple, easy-to-understand README for your `arithmetic_arranger` Python function:
-
----
 
 # Arithmetic Arranger
 
